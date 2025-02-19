@@ -4186,3 +4186,867 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.19-04.02.28:495][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6192.341797
 [2025.02.19-04.02.29:494][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.19-04.02.29:494][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6193.010742, Update Interval: 338.211609
+[2025.02.19-04.06.15:217][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.02.19-04.06.15:233][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/E/7F/7GA1UFS7OCW9AYJ7AXU3CX_Auto5
+[2025.02.19-04.06.15:233][306]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/7GA1UFS7OCW9AYJ7AXU3CX_Auto560DC3C8E475020C3E5089295FCDE3D35.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Autosaves/Game/__ExternalActors__/Test/E/7F/7GA1UFS7OCW9AYJ7AXU3CX_Auto5.uasset'
+[2025.02.19-04.06.15:234][306]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test' took 0.062
+[2025.02.19-04.06.15:234][306]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2025.02.19-04.08.58:250][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6582.093750
+[2025.02.19-04.08.59:251][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-04.08.59:251][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6582.760742, Update Interval: 342.945038
+[2025.02.19-04.09.59:469][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-04.09.59:535][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char] ([2] browsable assets)...
+[2025.02.19-04.09.59:535][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char]
+[2025.02.19-04.09.59:535][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Char.uasset" SILENT=true
+[2025.02.19-04.09.59:541][978]LogSavePackage: Moving output files for package: /Game/Char
+[2025.02.19-04.09.59:541][978]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Char24EEDBF14EB17317D34AEF9422C52D9B.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Char.uasset'
+[2025.02.19-04.09.59:548][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.606 ms (total: 9.02 sec)
+[2025.02.19-04.09.59:587][978]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-04.09.59:587][978]LogContentValidation: Enabled validators:
+[2025.02.19-04.09.59:587][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-04.09.59:587][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-04.09.59:587][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-04.09.59:587][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-04.09.59:587][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-04.09.59:587][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-04.09.59:587][978]AssetCheck: /Game/Char Validating asset
+[2025.02.19-04.10.00:243][ 19]LogSlate: Window 'Char' being destroyed
+[2025.02.19-04.10.00:279][ 19]LogSlate: Window 'Char' being destroyed
+[2025.02.19-04.10.00:283][ 19]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-04.10.00:283][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-04.10.00:341][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.02.19-04.15.26:736][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6970.581055
+[2025.02.19-04.15.27:737][164]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-04.15.27:737][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6971.248047, Update Interval: 318.871429
+[2025.02.19-04.17.56:439][610]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: e11...5aa
+[2025.02.19-04.17.56:439][610]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.85 RefreshExpires: 1.546e+07
+[2025.02.19-04.17.57:439][613]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: e11...5aa Access[Expires: 2025.02.19-06.17.57 Remaining: 7200.94] Refresh[Expires: 2025-08-18T04:17:57.944Z Remaining: 15552000.94] State: Valid
+[2025.02.19-04.20.53:678][142]LogDerivedDataCache: C:/Users/myfrn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.19-04.21.37:149][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7341.000000
+[2025.02.19-04.21.38:150][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-04.21.38:150][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7341.666992, Update Interval: 359.837036
+[2025.02.19-04.28.20:921][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7744.769531
+[2025.02.19-04.28.21:921][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-04.28.21:921][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7745.436035, Update Interval: 325.763733
+[2025.02.19-04.32.54:026][339]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_LapCounter.WB_LapCounter
+[2025.02.19-04.32.54:044][339]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.02.19-04.32.54:054][339]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.02.19-04.32.54:088][339]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.02.19-04.32.55:350][339]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.02.19-04.32.55:375][339]LogSlate: Took 0.011050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.02.19-04.34.29:169][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8112.996582
+[2025.02.19-04.34.29:310][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-04.34.29:310][129]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8113.125000, Update Interval: 349.198273
+[2025.02.19-04.37.53:492][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-04.37.53:542][628]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_LapCounter] ([2] browsable assets)...
+[2025.02.19-04.37.53:544][628]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_LapCounter.WB_LapCounter]
+[2025.02.19-04.37.53:544][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_LapCounter]
+[2025.02.19-04.37.53:544][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_LapCounter" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/WB_LapCounter.uasset" SILENT=true
+[2025.02.19-04.37.53:548][628]LogSavePackage: Moving output files for package: /Game/WB_LapCounter
+[2025.02.19-04.37.53:548][628]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/WB_LapCounterC787CBE0415B485EE91A3196BF90FBB5.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/WB_LapCounter.uasset'
+[2025.02.19-04.37.53:558][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.804 ms (total: 9.08 sec)
+[2025.02.19-04.37.53:581][628]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-04.37.53:581][628]LogContentValidation: Enabled validators:
+[2025.02.19-04.37.53:581][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-04.37.53:581][628]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-04.37.53:581][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-04.37.53:581][628]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-04.37.53:581][628]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-04.37.53:581][628]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-04.37.53:582][628]AssetCheck: /Game/WB_LapCounter Validating asset
+[2025.02.19-04.37.55:315][746]LogSlate: Window 'WB_LapCounter' being destroyed
+[2025.02.19-04.37.55:357][746]LogSlate: Window 'WB_LapCounter' being destroyed
+[2025.02.19-04.37.55:413][746]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-04.37.55:413][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-04.37.55:421][746]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-04.37.55:422][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-04.37.55:492][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.02.19-04.38.11:465][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Char.Char
+[2025.02.19-04.38.11:465][ 19]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.02.19-04.39.13:416][625]LogSlate: Window 'Char' being destroyed
+[2025.02.19-04.39.13:454][625]LogSlate: Window 'Char' being destroyed
+[2025.02.19-04.39.13:457][625]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-04.39.13:457][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-04.39.13:524][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.19-04.40.03:888][339]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GM1.GM1
+[2025.02.19-04.40.03:889][339]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.02.19-04.40.08:670][654]LogSlate: Window 'GM1' being destroyed
+[2025.02.19-04.40.08:707][654]LogSlate: Window 'GM1' being destroyed
+[2025.02.19-04.40.08:711][654]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-04.40.08:711][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-04.40.08:773][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.19-04.40.13:028][890]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Char.Char
+[2025.02.19-04.40.13:029][890]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.02.19-04.41.03:386][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8507.245117
+[2025.02.19-04.41.04:387][ 63]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-04.41.04:387][ 63]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8507.911133, Update Interval: 323.949097
+[2025.02.19-04.45.00:221][604]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2025.02.19-04.45.00:224][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test' took 0.088
+[2025.02.19-04.45.00:225][604]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Char] ([2] browsable assets)...
+[2025.02.19-04.45.00:318][604]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Char.Char]
+[2025.02.19-04.45.00:318][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char]
+[2025.02.19-04.45.00:318][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Autosaves/Game/Char_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.02.19-04.45.00:327][604]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Char_Auto6
+[2025.02.19-04.45.00:327][604]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Char_Auto6A5CF3100458E8116BD0EEAAE22FB096C.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Autosaves/Game/Char_Auto6.uasset'
+[2025.02.19-04.45.00:327][604]LogFileHelpers: Auto-saving content packages took 0.103
+[2025.02.19-04.47.20:452][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8884.322266
+[2025.02.19-04.47.21:453][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-04.47.21:453][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8884.989258, Update Interval: 308.692291
+[2025.02.19-04.53.01:151][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9225.003906
+[2025.02.19-04.53.02:156][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-04.53.02:156][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9225.671875, Update Interval: 315.921509
+[2025.02.19-04.59.08:226][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9592.042969
+[2025.02.19-04.59.09:226][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-04.59.09:226][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9592.708984, Update Interval: 333.079010
+[2025.02.19-05.05.19:981][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9963.763672
+[2025.02.19-05.05.20:981][840]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-05.05.20:981][840]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9964.436523, Update Interval: 336.830963
+[2025.02.19-05.08.37:937][848]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_LapCounter.WB_LapCounter
+[2025.02.19-05.08.37:939][848]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.02.19-05.08.37:958][848]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.02.19-05.09.36:971][558]LogEditorTransaction: Undo Create Binding
+[2025.02.19-05.09.49:883][400]LogSlate: Window 'WB_LapCounter' being destroyed
+[2025.02.19-05.09.49:920][400]LogSlate: Window 'WB_LapCounter' being destroyed
+[2025.02.19-05.09.49:923][400]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-05.09.49:924][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-05.09.49:989][400]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-05.09.49:989][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-05.09.49:995][400]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-05.09.49:995][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-05.09.50:075][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.02.19-05.09.53:446][565]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_LapCounter.WB_LapCounter
+[2025.02.19-05.09.53:446][565]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.02.19-05.09.53:452][565]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.02.19-05.10.03:675][857]LogSlate: Window 'WB_LapCounter' being destroyed
+[2025.02.19-05.10.03:719][857]LogSlate: Window 'WB_LapCounter' being destroyed
+[2025.02.19-05.10.03:728][857]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-05.10.03:729][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-05.10.03:735][857]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-05.10.03:735][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-05.10.03:801][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.02.19-05.10.14:337][304]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Char.Char
+[2025.02.19-05.10.14:338][304]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.02.19-05.10.22:003][678]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-05.10.22:009][678]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-05.10.22:009][678]LogWorldPartition: Display: GenerateStreaming for 'Test' started...
+[2025.02.19-05.10.22:017][678]LogWorldPartition: Display: GenerateStreaming for 'Test' took 8.357 ms (total: 141.222 ms)
+[2025.02.19-05.10.22:019][678]LogPlayLevel: [PlayLevel] Compiling Char before play...
+[2025.02.19-05.10.22:019][678]LogPlayLevel: [PlayLevel]   Compiling WB_LapCounter as a dependent...
+[2025.02.19-05.10.22:195][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.02.19-05.10.22:196][678]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (2 blueprints)
+[2025.02.19-05.10.22:196][678]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2025.02.19-05.10.22:199][678]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.02.19-05.10.22:219][679]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2025.02.19-05.10.22:232][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013651s)
+[2025.02.19-05.10.22:233][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.013742s)
+[2025.02.19-05.10.22:254][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.02.19-05.10.22:256][679]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.02.19-05.10.22:258][679]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-05.10.22:258][679]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-05.10.22:258][679]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Test.Test, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-05.10.22:258][679]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-05.10.22:266][679]LogWorldPartition: Display: WorldPartition initialize took 8.551 ms (total: 1.06 sec)
+[2025.02.19-05.10.22:266][679]LogPlayLevel: PIE: World Init took: (0.010257s)
+[2025.02.19-05.10.22:267][679]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.02.19-05.10.22:267][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-05.10.22:267][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-05.10.22:267][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-05.10.22:267][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-05.10.22:267][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-05.10.22:267][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-05.10.22:268][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-05.10.22:268][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-05.10.22:268][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-05.10.22:268][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-05.10.22:268][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-05.10.22:270][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-05.10.22:304][679]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.02.19-05.10.22:305][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-05.10.22:305][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-05.10.22:305][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-05.10.22:306][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.02.19-05.10.22:306][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.02.19-05.10.22:308][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.02.19-05.10.22:308][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.02.19-05.10.22:308][679]LogInit: FAudioDevice initialized with ID 14.
+[2025.02.19-05.10.22:308][679]LogAudio: Display: Audio Device (ID: 14) registered with world 'Test'.
+[2025.02.19-05.10.22:308][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.19-05.10.22:315][679]LogLoad: Game class is 'GM1_C'
+[2025.02.19-05.10.22:316][679]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.18-21.10.22
+[2025.02.19-05.10.22:317][679]LogWorld: Bringing up level for play took: 0.001795
+[2025.02.19-05.10.22:328][679]LogStreaming: Display: FlushAsyncLoading(1767,1766,1765,1764,1763,1762,1761,1760,1759,1758,1757,1756,1755,1754,1753,1752,1751,1750,1749,1748,1747,1746,1745,1744,1743,1742,1741,1740,1739,1738,1737,1736,1735,1734,1733,1732,1729,1730,1731,1727,1728,1726,1725,1722,1723,1724,1721,1720): 48 QueuedPackages, 0 AsyncPackages
+[2025.02.19-05.10.22:541][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.imagePlane1' which is static to it. Aborting.
+[2025.02.19-05.10.22:541][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.materialXStack1' which is static to it. Aborting.
+[2025.02.19-05.10.22:541][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group' which is static to it. Aborting.
+[2025.02.19-05.10.22:541][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group1' which is static to it. Aborting.
+[2025.02.19-05.10.22:541][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group2' which is static to it. Aborting.
+[2025.02.19-05.10.22:541][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group3' which is static to it. Aborting.
+[2025.02.19-05.10.22:541][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group4' which is static to it. Aborting.
+[2025.02.19-05.10.22:542][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group5' which is static to it. Aborting.
+[2025.02.19-05.10.22:542][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group6' which is static to it. Aborting.
+[2025.02.19-05.10.22:542][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube1' which is static to it. Aborting.
+[2025.02.19-05.10.22:542][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group7' which is static to it. Aborting.
+[2025.02.19-05.10.22:542][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pSphere1' which is static to it. Aborting.
+[2025.02.19-05.10.22:543][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube5' which is static to it. Aborting.
+[2025.02.19-05.10.22:543][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group8' which is static to it. Aborting.
+[2025.02.19-05.10.22:543][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group9' which is static to it. Aborting.
+[2025.02.19-05.10.22:543][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group10' which is static to it. Aborting.
+[2025.02.19-05.10.22:543][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group11' which is static to it. Aborting.
+[2025.02.19-05.10.22:543][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group12' which is static to it. Aborting.
+[2025.02.19-05.10.22:543][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group13' which is static to it. Aborting.
+[2025.02.19-05.10.22:543][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group14' which is static to it. Aborting.
+[2025.02.19-05.10.22:544][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group15' which is static to it. Aborting.
+[2025.02.19-05.10.22:544][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group16' which is static to it. Aborting.
+[2025.02.19-05.10.22:544][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group17' which is static to it. Aborting.
+[2025.02.19-05.10.22:544][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group18' which is static to it. Aborting.
+[2025.02.19-05.10.22:544][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group19' which is static to it. Aborting.
+[2025.02.19-05.10.22:545][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group20' which is static to it. Aborting.
+[2025.02.19-05.10.22:545][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group21' which is static to it. Aborting.
+[2025.02.19-05.10.22:545][679]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group22' which is static to it. Aborting.
+[2025.02.19-05.10.22:746][679]PIE: Server logged in
+[2025.02.19-05.10.22:747][679]PIE: Play in editor total start time 0.738 seconds.
+[2025.02.19-05.11.46:880][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10350.637695
+[2025.02.19-05.11.47:881][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-05.11.47:881][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10351.303711, Update Interval: 300.087891
+[2025.02.19-05.17.37:939][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10701.621094
+[2025.02.19-05.17.38:939][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-05.17.38:939][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10702.287109, Update Interval: 322.092346
+[2025.02.19-05.20.53:678][797]LogDerivedDataCache: C:/Users/myfrn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.19-05.23.36:343][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11059.966797
+[2025.02.19-05.23.37:344][287]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-05.23.37:344][287]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11060.633789, Update Interval: 345.429840
+[2025.02.19-05.30.01:088][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11444.657227
+[2025.02.19-05.30.02:088][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-05.30.02:088][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11445.324219, Update Interval: 339.105194
+[2025.02.19-05.36.19:498][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11823.023438
+[2025.02.19-05.36.20:498][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-05.36.20:498][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11823.689453, Update Interval: 337.748352
+[2025.02.19-05.42.49:234][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12212.685547
+[2025.02.19-05.42.50:235][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-05.42.50:235][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12213.351562, Update Interval: 310.148010
+[2025.02.19-05.48.36:636][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12560.046875
+[2025.02.19-05.48.37:636][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-05.48.37:636][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12560.712891, Update Interval: 324.721832
+[2025.02.19-05.54.43:718][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12927.046875
+[2025.02.19-05.54.44:718][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-05.54.44:718][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12927.714844, Update Interval: 316.067993
+[2025.02.19-06.00.54:785][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13298.046875
+[2025.02.19-06.00.55:785][  1]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.00.55:785][  1]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13298.713867, Update Interval: 359.989014
+[2025.02.19-06.07.32:505][191]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13695.678711
+[2025.02.19-06.07.35:173][199]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.07.35:173][199]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13698.012695, Update Interval: 353.567322
+[2025.02.19-06.08.54:692][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.08.54:692][252]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2025.02.19-06.08.54:760][252]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.08.54:760][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.08.54:761][252]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Test.Test
+[2025.02.19-06.08.54:766][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-06.08.54:773][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.08.54:808][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.08.54:809][252]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.19-06.08.54:809][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.19-06.08.54:811][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.19-06.08.54:864][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.02.19-06.08.55:053][253]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.02.19-06.08.58:026][466]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.08.58:085][466]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.09.56:218][719]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LapCounter.LapCounter
+[2025.02.19-06.09.56:219][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.02.19-06.10.27:763][970]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-06.10.27:769][970]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-06.10.27:769][970]LogWorldPartition: Display: GenerateStreaming for 'Test' started...
+[2025.02.19-06.10.27:777][970]LogWorldPartition: Display: GenerateStreaming for 'Test' took 7.607 ms (total: 148.829 ms)
+[2025.02.19-06.10.27:777][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-06.10.27:817][970]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2025.02.19-06.10.27:819][970]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.02.19-06.10.27:839][971]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2025.02.19-06.10.27:852][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013084s)
+[2025.02.19-06.10.27:852][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.013128s)
+[2025.02.19-06.10.27:891][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.19-06.10.27:892][971]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.02.19-06.10.27:894][971]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-06.10.27:894][971]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-06.10.27:894][971]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Test.Test, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-06.10.27:894][971]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-06.10.27:903][971]LogWorldPartition: Display: WorldPartition initialize took 8.427 ms (total: 1.06 sec)
+[2025.02.19-06.10.27:903][971]LogPlayLevel: PIE: World Init took: (0.010369s)
+[2025.02.19-06.10.27:904][971]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.02.19-06.10.27:904][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-06.10.27:904][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-06.10.27:904][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-06.10.27:904][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-06.10.27:904][971]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-06.10.27:904][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-06.10.27:904][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-06.10.27:904][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-06.10.27:904][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-06.10.27:904][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-06.10.27:904][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-06.10.27:906][971]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-06.10.27:941][971]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.02.19-06.10.27:941][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-06.10.27:941][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-06.10.27:941][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-06.10.27:943][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.02.19-06.10.27:943][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.02.19-06.10.27:945][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.02.19-06.10.27:945][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.02.19-06.10.27:945][971]LogInit: FAudioDevice initialized with ID 15.
+[2025.02.19-06.10.27:945][971]LogAudio: Display: Audio Device (ID: 15) registered with world 'Test'.
+[2025.02.19-06.10.27:945][971]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.19-06.10.27:947][971]LogLoad: Game class is 'GM1_C'
+[2025.02.19-06.10.27:949][971]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.18-22.10.27
+[2025.02.19-06.10.27:949][971]LogWorld: Bringing up level for play took: 0.001542
+[2025.02.19-06.10.27:960][971]LogStreaming: Display: FlushAsyncLoading(1815,1814,1813,1812,1811,1810,1809,1808,1807,1806,1805,1804,1803,1802,1801,1800,1799,1798,1797,1796,1795,1794,1793,1792,1791,1790,1789,1788,1787,1786,1785,1784,1783,1782,1781,1780,1777,1778,1779,1775,1776,1774,1773,1770,1771,1772,1769,1768): 48 QueuedPackages, 0 AsyncPackages
+[2025.02.19-06.10.28:179][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.imagePlane1' which is static to it. Aborting.
+[2025.02.19-06.10.28:179][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.materialXStack1' which is static to it. Aborting.
+[2025.02.19-06.10.28:179][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group' which is static to it. Aborting.
+[2025.02.19-06.10.28:179][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group1' which is static to it. Aborting.
+[2025.02.19-06.10.28:179][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group2' which is static to it. Aborting.
+[2025.02.19-06.10.28:179][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group3' which is static to it. Aborting.
+[2025.02.19-06.10.28:179][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group4' which is static to it. Aborting.
+[2025.02.19-06.10.28:180][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group5' which is static to it. Aborting.
+[2025.02.19-06.10.28:180][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group6' which is static to it. Aborting.
+[2025.02.19-06.10.28:180][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube1' which is static to it. Aborting.
+[2025.02.19-06.10.28:180][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group7' which is static to it. Aborting.
+[2025.02.19-06.10.28:180][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pSphere1' which is static to it. Aborting.
+[2025.02.19-06.10.28:180][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube5' which is static to it. Aborting.
+[2025.02.19-06.10.28:180][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group8' which is static to it. Aborting.
+[2025.02.19-06.10.28:181][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group9' which is static to it. Aborting.
+[2025.02.19-06.10.28:181][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group10' which is static to it. Aborting.
+[2025.02.19-06.10.28:181][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group11' which is static to it. Aborting.
+[2025.02.19-06.10.28:181][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group12' which is static to it. Aborting.
+[2025.02.19-06.10.28:181][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group13' which is static to it. Aborting.
+[2025.02.19-06.10.28:181][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group14' which is static to it. Aborting.
+[2025.02.19-06.10.28:181][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group15' which is static to it. Aborting.
+[2025.02.19-06.10.28:182][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group16' which is static to it. Aborting.
+[2025.02.19-06.10.28:182][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group17' which is static to it. Aborting.
+[2025.02.19-06.10.28:182][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group18' which is static to it. Aborting.
+[2025.02.19-06.10.28:182][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group19' which is static to it. Aborting.
+[2025.02.19-06.10.28:183][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group20' which is static to it. Aborting.
+[2025.02.19-06.10.28:183][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group21' which is static to it. Aborting.
+[2025.02.19-06.10.28:183][971]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group22' which is static to it. Aborting.
+[2025.02.19-06.10.28:334][971]PIE: Server logged in
+[2025.02.19-06.10.28:335][971]PIE: Play in editor total start time 0.566 seconds.
+[2025.02.19-06.11.07:537][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.11.07:537][ 50]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2025.02.19-06.11.07:545][ 50]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.11.07:545][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.11.07:545][ 50]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Test.Test
+[2025.02.19-06.11.07:549][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-06.11.07:556][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.11.07:583][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.19-06.11.07:584][ 50]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.19-06.11.07:584][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.19-06.11.07:586][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.19-06.11.07:590][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.11.07:598][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.02.19-06.11.07:735][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.02.19-06.11.10:335][235]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.11.10:375][235]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.11.39:069][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.02.19-06.11.39:072][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/2/GY/1PJK5Z4MSANDJSNG5D2QR0_Auto7
+[2025.02.19-06.11.39:072][672]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/1PJK5Z4MSANDJSNG5D2QR0_Auto77FA7758448BEC1BB015255940C652762.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Autosaves/Game/__ExternalActors__/Test/2/GY/1PJK5Z4MSANDJSNG5D2QR0_Auto7.uasset'
+[2025.02.19-06.11.39:074][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/E/7F/7GA1UFS7OCW9AYJ7AXU3CX_Auto7
+[2025.02.19-06.11.39:074][672]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/7GA1UFS7OCW9AYJ7AXU3CX_Auto7A949E03A4B16769198136786C40704F9.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Autosaves/Game/__ExternalActors__/Test/E/7F/7GA1UFS7OCW9AYJ7AXU3CX_Auto7.uasset'
+[2025.02.19-06.11.39:075][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test' took 0.030
+[2025.02.19-06.11.39:075][672]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2025.02.19-06.11.39:075][672]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Char] ([2] browsable assets)...
+[2025.02.19-06.11.39:182][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Char.Char]
+[2025.02.19-06.11.39:182][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char]
+[2025.02.19-06.11.39:182][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Autosaves/Game/Char_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.19-06.11.39:190][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Char_Auto7
+[2025.02.19-06.11.39:190][672]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Char_Auto7F9EC11AB43CCA4ACC26DDF99D61047A7.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Autosaves/Game/Char_Auto7.uasset'
+[2025.02.19-06.11.39:190][672]LogFileHelpers: Auto-saving content packages took 0.115
+[2025.02.19-06.14.28:376][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14111.447266
+[2025.02.19-06.14.29:378][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.14.29:378][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14112.113281, Update Interval: 333.458069
+[2025.02.19-06.16.17:398][507]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: e11...5aa
+[2025.02.19-06.16.17:398][508]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.94 RefreshExpires: 1.554e+07
+[2025.02.19-06.16.18:400][510]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: e11...5aa Access[Expires: 2025.02.19-08.16.18 Remaining: 7200.89] Refresh[Expires: 2025-08-18T04:17:57.944Z Remaining: 15544899.94] State: Valid
+[2025.02.19-06.20.53:679][336]LogDerivedDataCache: C:/Users/myfrn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.19-06.21.02:785][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14505.831055
+[2025.02.19-06.21.03:785][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.21.03:785][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14506.497070, Update Interval: 317.122711
+[2025.02.19-06.25.32:283][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-06.25.32:309][791]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Char] ([2] browsable assets)...
+[2025.02.19-06.25.32:443][791]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Char.Char]
+[2025.02.19-06.25.32:443][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char]
+[2025.02.19-06.25.32:443][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Char.uasset" SILENT=true
+[2025.02.19-06.25.32:451][791]LogSavePackage: Moving output files for package: /Game/Char
+[2025.02.19-06.25.32:451][791]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Char47769765450197BA35379990A7C15660.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Char.uasset'
+[2025.02.19-06.25.32:458][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.252 ms (total: 9.26 sec)
+[2025.02.19-06.25.32:508][791]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-06.25.32:508][791]LogContentValidation: Enabled validators:
+[2025.02.19-06.25.32:508][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-06.25.32:508][791]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-06.25.32:508][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-06.25.32:508][791]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-06.25.32:508][791]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-06.25.32:508][791]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-06.25.32:508][791]AssetCheck: /Game/Char Validating asset
+[2025.02.19-06.27.00:352][136]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_LapCounter.WB_LapCounter
+[2025.02.19-06.27.00:353][136]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.02.19-06.27.00:369][136]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.02.19-06.27.16:063][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14879.095703
+[2025.02.19-06.27.17:063][273]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.27.17:063][273]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14879.762695, Update Interval: 335.642578
+[2025.02.19-06.27.33:938][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-06.27.33:999][377]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_LapCounter] ([2] browsable assets)...
+[2025.02.19-06.27.34:002][377]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_LapCounter.WB_LapCounter]
+[2025.02.19-06.27.34:002][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_LapCounter]
+[2025.02.19-06.27.34:002][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_LapCounter" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/WB_LapCounter.uasset" SILENT=true
+[2025.02.19-06.27.34:007][377]LogSavePackage: Moving output files for package: /Game/WB_LapCounter
+[2025.02.19-06.27.34:007][377]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/WB_LapCounterA184EF3640BA6A4AD8F5AD920F4C648E.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/WB_LapCounter.uasset'
+[2025.02.19-06.27.34:015][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.666 ms (total: 9.34 sec)
+[2025.02.19-06.27.34:052][377]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-06.27.34:052][377]LogContentValidation: Enabled validators:
+[2025.02.19-06.27.34:052][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-06.27.34:052][377]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-06.27.34:052][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-06.27.34:052][377]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-06.27.34:052][377]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-06.27.34:052][377]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-06.27.34:052][377]AssetCheck: /Game/WB_LapCounter Validating asset
+[2025.02.19-06.29.49:933][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-06.29.50:091][456]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LapCounter] ([2] browsable assets)...
+[2025.02.19-06.29.50:134][456]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LapCounter.LapCounter]
+[2025.02.19-06.29.50:134][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/LapCounter]
+[2025.02.19-06.29.50:134][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LapCounter" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/LapCounter.uasset" SILENT=true
+[2025.02.19-06.29.50:141][456]LogSavePackage: Moving output files for package: /Game/LapCounter
+[2025.02.19-06.29.50:141][456]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/LapCounter70168D034A7FFA8BB5CC8EB3D7ED1C6B.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/LapCounter.uasset'
+[2025.02.19-06.29.50:148][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.781 ms (total: 9.55 sec)
+[2025.02.19-06.29.50:198][456]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-06.29.50:198][456]LogContentValidation: Enabled validators:
+[2025.02.19-06.29.50:198][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-06.29.50:198][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-06.29.50:198][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-06.29.50:198][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-06.29.50:198][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-06.29.50:198][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-06.29.50:198][456]AssetCheck: /Game/LapCounter Validating asset
+[2025.02.19-06.30.04:307][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-06.30.04:362][391]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LapCounter] ([2] browsable assets)...
+[2025.02.19-06.30.04:402][391]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LapCounter.LapCounter]
+[2025.02.19-06.30.04:402][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/LapCounter]
+[2025.02.19-06.30.04:402][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LapCounter" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/LapCounter.uasset" SILENT=true
+[2025.02.19-06.30.04:408][391]LogSavePackage: Moving output files for package: /Game/LapCounter
+[2025.02.19-06.30.04:408][391]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/LapCounterF712175E4917ECF77F2AC0A2A1305645.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/LapCounter.uasset'
+[2025.02.19-06.30.04:416][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.681 ms (total: 9.66 sec)
+[2025.02.19-06.30.04:439][391]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-06.30.04:439][391]LogContentValidation: Enabled validators:
+[2025.02.19-06.30.04:439][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-06.30.04:439][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-06.30.04:439][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-06.30.04:439][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-06.30.04:439][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-06.30.04:439][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-06.30.04:439][391]AssetCheck: /Game/LapCounter Validating asset
+[2025.02.19-06.30.12:637][503]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-06.30.12:644][503]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-06.30.12:644][503]LogWorldPartition: Display: GenerateStreaming for 'Test' started...
+[2025.02.19-06.30.12:654][503]LogWorldPartition: Display: GenerateStreaming for 'Test' took 10.334 ms (total: 159.164 ms)
+[2025.02.19-06.30.12:656][503]LogPlayLevel: [PlayLevel] Compiling LapCounter before play...
+[2025.02.19-06.30.12:662][503]LogPlayLevel: [PlayLevel]   Compiling Char as a dependent...
+[2025.02.19-06.30.12:670][503]LogPlayLevel: [PlayLevel]   Compiling WB_LapCounter as a dependent...
+[2025.02.19-06.30.12:805][503]LogBlueprint: Warning: [AssetLog] D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Content\Char.uasset: [Compiler] Set LapCounterUI  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2025.02.19-06.30.13:001][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.19-06.30.13:031][503]LogPlayLevel: PlayLevel: Blueprint regeneration took 375 ms (3 blueprints)
+[2025.02.19-06.30.13:055][503]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2025.02.19-06.30.13:057][503]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.02.19-06.30.13:083][504]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2025.02.19-06.30.13:095][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012328s)
+[2025.02.19-06.30.13:095][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.012371s)
+[2025.02.19-06.30.13:116][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.02.19-06.30.13:118][504]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.02.19-06.30.13:120][504]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-06.30.13:120][504]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-06.30.13:120][504]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Test.Test, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-06.30.13:120][504]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-06.30.13:128][504]LogWorldPartition: Display: WorldPartition initialize took 8.439 ms (total: 1.07 sec)
+[2025.02.19-06.30.13:129][504]LogPlayLevel: PIE: World Init took: (0.010120s)
+[2025.02.19-06.30.13:129][504]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.02.19-06.30.13:129][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-06.30.13:129][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-06.30.13:129][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-06.30.13:129][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-06.30.13:129][504]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-06.30.13:129][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-06.30.13:129][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-06.30.13:129][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-06.30.13:129][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-06.30.13:129][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-06.30.13:129][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-06.30.13:131][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-06.30.13:167][504]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.02.19-06.30.13:167][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-06.30.13:167][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-06.30.13:167][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-06.30.13:168][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.02.19-06.30.13:168][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.02.19-06.30.13:170][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.02.19-06.30.13:170][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.02.19-06.30.13:170][504]LogInit: FAudioDevice initialized with ID 16.
+[2025.02.19-06.30.13:170][504]LogAudio: Display: Audio Device (ID: 16) registered with world 'Test'.
+[2025.02.19-06.30.13:170][504]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.19-06.30.13:173][504]LogLoad: Game class is 'GM1_C'
+[2025.02.19-06.30.13:175][504]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.18-22.30.13
+[2025.02.19-06.30.13:175][504]LogWorld: Bringing up level for play took: 0.001505
+[2025.02.19-06.30.13:185][504]LogStreaming: Display: FlushAsyncLoading(1863,1862,1861,1860,1859,1858,1857,1856,1855,1854,1853,1852,1851,1850,1849,1848,1847,1846,1845,1844,1843,1842,1841,1840,1839,1838,1837,1836,1835,1834,1833,1832,1831,1830,1829,1828,1825,1826,1827,1823,1824,1822,1821,1818,1819,1820,1817,1816): 48 QueuedPackages, 0 AsyncPackages
+[2025.02.19-06.30.13:389][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.imagePlane1' which is static to it. Aborting.
+[2025.02.19-06.30.13:389][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.materialXStack1' which is static to it. Aborting.
+[2025.02.19-06.30.13:389][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group' which is static to it. Aborting.
+[2025.02.19-06.30.13:389][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group1' which is static to it. Aborting.
+[2025.02.19-06.30.13:389][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group2' which is static to it. Aborting.
+[2025.02.19-06.30.13:389][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group3' which is static to it. Aborting.
+[2025.02.19-06.30.13:389][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group4' which is static to it. Aborting.
+[2025.02.19-06.30.13:389][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group5' which is static to it. Aborting.
+[2025.02.19-06.30.13:390][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group6' which is static to it. Aborting.
+[2025.02.19-06.30.13:390][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube1' which is static to it. Aborting.
+[2025.02.19-06.30.13:390][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group7' which is static to it. Aborting.
+[2025.02.19-06.30.13:390][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pSphere1' which is static to it. Aborting.
+[2025.02.19-06.30.13:390][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube5' which is static to it. Aborting.
+[2025.02.19-06.30.13:390][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group8' which is static to it. Aborting.
+[2025.02.19-06.30.13:390][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group9' which is static to it. Aborting.
+[2025.02.19-06.30.13:391][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group10' which is static to it. Aborting.
+[2025.02.19-06.30.13:391][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group11' which is static to it. Aborting.
+[2025.02.19-06.30.13:391][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group12' which is static to it. Aborting.
+[2025.02.19-06.30.13:391][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group13' which is static to it. Aborting.
+[2025.02.19-06.30.13:391][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group14' which is static to it. Aborting.
+[2025.02.19-06.30.13:391][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group15' which is static to it. Aborting.
+[2025.02.19-06.30.13:391][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group16' which is static to it. Aborting.
+[2025.02.19-06.30.13:392][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group17' which is static to it. Aborting.
+[2025.02.19-06.30.13:392][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group18' which is static to it. Aborting.
+[2025.02.19-06.30.13:392][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group19' which is static to it. Aborting.
+[2025.02.19-06.30.13:392][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group20' which is static to it. Aborting.
+[2025.02.19-06.30.13:393][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group21' which is static to it. Aborting.
+[2025.02.19-06.30.13:393][504]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group22' which is static to it. Aborting.
+[2025.02.19-06.30.13:542][504]PIE: Server logged in
+[2025.02.19-06.30.13:543][504]PIE: Play in editor total start time 0.899 seconds.
+[2025.02.19-06.30.25:354][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.30.25:355][348]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2025.02.19-06.30.25:363][348]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.30.25:363][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.30.25:363][348]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Test.Test
+[2025.02.19-06.30.25:368][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-06.30.25:374][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.30.25:401][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.30.25:401][348]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.19-06.30.25:401][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.19-06.30.25:403][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.19-06.30.25:415][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.19-06.30.25:555][349]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.02.19-06.30.28:318][528]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.30.28:359][528]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.30.58:639][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.02.19-06.30.58:644][329]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Test/E/7F/7GA1UFS7OCW9AYJ7AXU3CX_Auto8
+[2025.02.19-06.30.58:644][329]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/7GA1UFS7OCW9AYJ7AXU3CX_Auto8E461BA4048BEEB6B8E813F9E229E746F.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Autosaves/Game/__ExternalActors__/Test/E/7F/7GA1UFS7OCW9AYJ7AXU3CX_Auto8.uasset'
+[2025.02.19-06.30.58:646][329]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test' took 0.030
+[2025.02.19-06.30.58:646][329]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2025.02.19-06.30.59:630][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-06.30.59:679][398]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_LapCounter] ([2] browsable assets)...
+[2025.02.19-06.30.59:680][398]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_LapCounter.WB_LapCounter]
+[2025.02.19-06.30.59:680][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_LapCounter]
+[2025.02.19-06.30.59:680][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_LapCounter" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/WB_LapCounter.uasset" SILENT=true
+[2025.02.19-06.30.59:683][398]LogSavePackage: Moving output files for package: /Game/WB_LapCounter
+[2025.02.19-06.30.59:684][398]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/WB_LapCounterE6B1605F47139377C06F2CBD83CD2A3B.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/WB_LapCounter.uasset'
+[2025.02.19-06.30.59:691][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.016 ms (total: 9.72 sec)
+[2025.02.19-06.30.59:731][398]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-06.30.59:731][398]LogContentValidation: Enabled validators:
+[2025.02.19-06.30.59:731][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-06.30.59:731][398]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-06.30.59:731][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-06.30.59:731][398]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-06.30.59:731][398]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-06.30.59:731][398]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-06.30.59:731][398]AssetCheck: /Game/WB_LapCounter Validating asset
+[2025.02.19-06.32.10:678][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-06.32.10:746][354]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Char] ([2] browsable assets)...
+[2025.02.19-06.32.10:787][354]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Char.Char]
+[2025.02.19-06.32.10:787][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char]
+[2025.02.19-06.32.10:787][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Char.uasset" SILENT=true
+[2025.02.19-06.32.10:795][354]LogSavePackage: Moving output files for package: /Game/Char
+[2025.02.19-06.32.10:795][354]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/Char38B3A44D49188BC6E7D2549F3DA0B618.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Char.uasset'
+[2025.02.19-06.32.10:802][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.161 ms (total: 9.85 sec)
+[2025.02.19-06.32.10:838][354]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-06.32.10:838][354]LogContentValidation: Enabled validators:
+[2025.02.19-06.32.10:838][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-06.32.10:838][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-06.32.10:838][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-06.32.10:838][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-06.32.10:838][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-06.32.10:838][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-06.32.10:838][354]AssetCheck: /Game/Char Validating asset
+[2025.02.19-06.32.14:362][600]LogSlate: Window 'WB_LapCounter' being destroyed
+[2025.02.19-06.32.14:395][600]LogSlate: Window 'WB_LapCounter' being destroyed
+[2025.02.19-06.32.14:398][600]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.32.14:399][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.32.14:446][600]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.19-06.32.14:447][600]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.32.14:447][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.32.14:489][600]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.32.14:489][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.32.14:495][600]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.32.14:495][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.32.14:569][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.19-06.32.19:577][971]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-06.32.19:582][971]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-06.32.19:582][971]LogWorldPartition: Display: GenerateStreaming for 'Test' started...
+[2025.02.19-06.32.19:589][971]LogWorldPartition: Display: GenerateStreaming for 'Test' took 6.061 ms (total: 165.226 ms)
+[2025.02.19-06.32.19:590][971]LogPlayLevel: [PlayLevel] Compiling Char before play...
+[2025.02.19-06.32.19:591][971]LogPlayLevel: [PlayLevel]   Compiling WB_LapCounter as a dependent...
+[2025.02.19-06.32.19:657][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.19-06.32.19:658][971]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (2 blueprints)
+[2025.02.19-06.32.19:684][971]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2025.02.19-06.32.19:688][971]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.02.19-06.32.19:705][972]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2025.02.19-06.32.19:716][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011880s)
+[2025.02.19-06.32.19:716][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.011916s)
+[2025.02.19-06.32.19:738][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.19-06.32.19:740][972]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.02.19-06.32.19:741][972]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-06.32.19:741][972]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-06.32.19:741][972]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Test.Test, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-06.32.19:741][972]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-06.32.19:749][972]LogWorldPartition: Display: WorldPartition initialize took 8.397 ms (total: 1.08 sec)
+[2025.02.19-06.32.19:750][972]LogPlayLevel: PIE: World Init took: (0.009849s)
+[2025.02.19-06.32.19:750][972]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.02.19-06.32.19:750][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-06.32.19:750][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-06.32.19:750][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-06.32.19:750][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-06.32.19:750][972]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-06.32.19:750][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-06.32.19:750][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-06.32.19:750][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-06.32.19:750][972]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-06.32.19:750][972]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-06.32.19:750][972]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-06.32.19:752][972]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-06.32.19:787][972]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.02.19-06.32.19:787][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-06.32.19:787][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-06.32.19:787][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-06.32.19:787][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.02.19-06.32.19:787][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.02.19-06.32.19:790][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.02.19-06.32.19:790][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.02.19-06.32.19:790][972]LogInit: FAudioDevice initialized with ID 17.
+[2025.02.19-06.32.19:790][972]LogAudio: Display: Audio Device (ID: 17) registered with world 'Test'.
+[2025.02.19-06.32.19:790][972]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.02.19-06.32.19:792][972]LogLoad: Game class is 'GM1_C'
+[2025.02.19-06.32.19:794][972]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.18-22.32.19
+[2025.02.19-06.32.19:794][972]LogWorld: Bringing up level for play took: 0.001618
+[2025.02.19-06.32.19:804][972]LogStreaming: Display: FlushAsyncLoading(1911,1910,1909,1908,1907,1906,1905,1904,1903,1902,1901,1900,1899,1898,1897,1896,1895,1894,1893,1892,1891,1890,1889,1888,1887,1886,1885,1884,1883,1882,1881,1880,1879,1878,1877,1876,1873,1874,1875,1871,1872,1870,1869,1866,1867,1868,1865,1864): 48 QueuedPackages, 0 AsyncPackages
+[2025.02.19-06.32.20:013][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.imagePlane1' which is static to it. Aborting.
+[2025.02.19-06.32.20:013][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.materialXStack1' which is static to it. Aborting.
+[2025.02.19-06.32.20:013][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group' which is static to it. Aborting.
+[2025.02.19-06.32.20:013][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group1' which is static to it. Aborting.
+[2025.02.19-06.32.20:013][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group2' which is static to it. Aborting.
+[2025.02.19-06.32.20:013][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group3' which is static to it. Aborting.
+[2025.02.19-06.32.20:013][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group4' which is static to it. Aborting.
+[2025.02.19-06.32.20:014][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group5' which is static to it. Aborting.
+[2025.02.19-06.32.20:014][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group6' which is static to it. Aborting.
+[2025.02.19-06.32.20:014][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube1' which is static to it. Aborting.
+[2025.02.19-06.32.20:014][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group7' which is static to it. Aborting.
+[2025.02.19-06.32.20:014][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pSphere1' which is static to it. Aborting.
+[2025.02.19-06.32.20:014][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube5' which is static to it. Aborting.
+[2025.02.19-06.32.20:015][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group8' which is static to it. Aborting.
+[2025.02.19-06.32.20:015][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group9' which is static to it. Aborting.
+[2025.02.19-06.32.20:015][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group10' which is static to it. Aborting.
+[2025.02.19-06.32.20:015][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group11' which is static to it. Aborting.
+[2025.02.19-06.32.20:015][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group12' which is static to it. Aborting.
+[2025.02.19-06.32.20:015][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group13' which is static to it. Aborting.
+[2025.02.19-06.32.20:015][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group14' which is static to it. Aborting.
+[2025.02.19-06.32.20:015][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group15' which is static to it. Aborting.
+[2025.02.19-06.32.20:016][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group16' which is static to it. Aborting.
+[2025.02.19-06.32.20:016][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group17' which is static to it. Aborting.
+[2025.02.19-06.32.20:016][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group18' which is static to it. Aborting.
+[2025.02.19-06.32.20:016][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group19' which is static to it. Aborting.
+[2025.02.19-06.32.20:016][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group20' which is static to it. Aborting.
+[2025.02.19-06.32.20:017][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group21' which is static to it. Aborting.
+[2025.02.19-06.32.20:017][972]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group22' which is static to it. Aborting.
+[2025.02.19-06.32.20:187][972]LogScript: Warning: Script Msg: The widget 'WB_LapCounter_C_0' was already added to the screen.
+[2025.02.19-06.32.20:187][972]LogScript: Warning: Script Msg called by: Char_C /Game/UEDPIE_0_Test.Test:PersistentLevel.Char_C_0
+[2025.02.19-06.32.20:188][972]PIE: Server logged in
+[2025.02.19-06.32.20:189][972]PIE: Play in editor total start time 0.607 seconds.
+[2025.02.19-06.32.30:174][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.32.30:174][696]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2025.02.19-06.32.30:183][696]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.32.30:183][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.32.30:183][696]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Test.Test
+[2025.02.19-06.32.30:187][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-06.32.30:193][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.32.30:237][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.32.30:237][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.02.19-06.32.30:237][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.02.19-06.32.30:239][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.02.19-06.32.30:251][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.19-06.32.30:380][697]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.02.19-06.32.35:106][ 56]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.32.35:141][ 56]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.32.39:489][398]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_LapCounter.WB_LapCounter
+[2025.02.19-06.32.39:489][398]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.02.19-06.32.39:506][398]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.02.19-06.32.49:481][100]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LapCounter.LapCounter
+[2025.02.19-06.32.49:481][100]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.02.19-06.32.53:525][366]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Char.Char
+[2025.02.19-06.32.53:526][366]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.02.19-06.33.24:748][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15247.961914
+[2025.02.19-06.33.24:895][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.33.24:895][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15248.097656, Update Interval: 325.862610
+[2025.02.19-06.36.46:171][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-06.36.46:385][770]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LapCounter] ([2] browsable assets)...
+[2025.02.19-06.36.46:426][770]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LapCounter.LapCounter]
+[2025.02.19-06.36.46:426][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/LapCounter]
+[2025.02.19-06.36.46:426][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LapCounter" FILE="../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/LapCounter.uasset" SILENT=true
+[2025.02.19-06.36.46:432][770]LogSavePackage: Moving output files for package: /Game/LapCounter
+[2025.02.19-06.36.46:432][770]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/LapCounterEB6A83E6428566B519FA1098C25034BA.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/LapCounter.uasset'
+[2025.02.19-06.36.46:440][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.258 ms (total: 10.1 sec)
+[2025.02.19-06.36.46:463][770]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-06.36.46:463][770]LogContentValidation: Enabled validators:
+[2025.02.19-06.36.46:463][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-06.36.46:463][770]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-06.36.46:463][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-06.36.46:463][770]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-06.36.46:463][770]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-06.36.46:463][770]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-06.36.46:463][770]AssetCheck: /Game/LapCounter Validating asset
+[2025.02.19-06.36.51:525][152]LogSlate: Window 'Char' being destroyed
+[2025.02.19-06.36.51:556][152]LogSlate: Window 'Char' being destroyed
+[2025.02.19-06.36.51:568][152]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.36.51:568][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.36.51:577][152]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.36.51:577][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.36.51:612][152]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.36.51:612][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.36.51:653][152]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.19-06.36.51:653][152]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.36.51:653][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.36.51:769][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.02.19-06.36.53:013][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-06.36.53:062][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.02.19-06.36.53:083][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.02.19-06.36.53:107][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.02.19-06.36.53:109][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Test/2/GY/1PJK5Z4MSANDJSNG5D2QR0
+[2025.02.19-06.36.53:110][251]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/1PJK5Z4MSANDJSNG5D2QR0647BE70B4D80882E13E47BBDCB7CFA81.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/__ExternalActors__/Test/2/GY/1PJK5Z4MSANDJSNG5D2QR0.uasset'
+[2025.02.19-06.36.53:112][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Test/E/7F/7GA1UFS7OCW9AYJ7AXU3CX
+[2025.02.19-06.36.53:112][251]LogSavePackage: Moving '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Saved/7GA1UFS7OCW9AYJ7AXU3CX6CE677604E80922DEB2DC59997704AB5.tmp' to '../../../../../Unity Github/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/__ExternalActors__/Test/E/7F/7GA1UFS7OCW9AYJ7AXU3CX.uasset'
+[2025.02.19-06.36.53:120][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.315 ms (total: 10.2 sec)
+[2025.02.19-06.36.53:158][251]LogContentValidation: Display: Starting to validate 2 assets
+[2025.02.19-06.36.53:158][251]LogContentValidation: Enabled validators:
+[2025.02.19-06.36.53:158][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-06.36.53:158][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-06.36.53:158][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-06.36.53:158][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-06.36.53:158][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-06.36.53:158][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-06.36.53:158][251]AssetCheck: /Game/Test Validating asset
+[2025.02.19-06.36.55:895][471]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-06.36.55:901][471]LogContentBundle: [Test(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-06.36.55:901][471]LogWorldPartition: Display: GenerateStreaming for 'Test' started...
+[2025.02.19-06.36.55:907][471]LogWorldPartition: Display: GenerateStreaming for 'Test' took 6.406 ms (total: 171.632 ms)
+[2025.02.19-06.36.55:908][471]LogPlayLevel: [PlayLevel] Compiling LapCounter before play...
+[2025.02.19-06.36.55:994][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.19-06.36.55:995][471]LogPlayLevel: PlayLevel: Blueprint regeneration took 87 ms (1 blueprints)
+[2025.02.19-06.36.55:995][471]LogPlayLevel: Display: Creating online subsystem for client :Context_45
+[2025.02.19-06.36.55:997][471]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.02.19-06.36.56:016][472]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2025.02.19-06.36.56:026][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010491s)
+[2025.02.19-06.36.56:026][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.010528s)
+[2025.02.19-06.36.56:047][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.02.19-06.36.56:049][472]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.02.19-06.36.56:050][472]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-06.36.56:050][472]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-06.36.56:050][472]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Test.Test, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-06.36.56:050][472]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-06.36.56:059][472]LogWorldPartition: Display: WorldPartition initialize took 8.375 ms (total: 1.09 sec)
+[2025.02.19-06.36.56:059][472]LogPlayLevel: PIE: World Init took: (0.009903s)
+[2025.02.19-06.36.56:060][472]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.02.19-06.36.56:060][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-06.36.56:060][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-06.36.56:060][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-06.36.56:060][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-06.36.56:060][472]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-06.36.56:060][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-06.36.56:060][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-06.36.56:060][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-06.36.56:060][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-06.36.56:060][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-06.36.56:060][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-06.36.56:062][472]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-06.36.56:096][472]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.02.19-06.36.56:096][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-06.36.56:096][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-06.36.56:096][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-06.36.56:097][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.02.19-06.36.56:097][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.02.19-06.36.56:100][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.02.19-06.36.56:100][472]LogInit: FAudioDevice initialized with ID 18.
+[2025.02.19-06.36.56:100][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.02.19-06.36.56:100][472]LogAudio: Display: Audio Device (ID: 18) registered with world 'Test'.
+[2025.02.19-06.36.56:100][472]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.02.19-06.36.56:102][472]LogLoad: Game class is 'GM1_C'
+[2025.02.19-06.36.56:103][472]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.18-22.36.56
+[2025.02.19-06.36.56:104][472]LogWorld: Bringing up level for play took: 0.001532
+[2025.02.19-06.36.56:110][472]LogStreaming: Display: FlushAsyncLoading(1963,1962,1961,1960,1959,1958,1957,1956,1955,1954,1953,1952,1951,1950,1949,1948,1947,1946,1945,1944,1943,1942,1941,1940,1939,1938,1937,1936,1935,1934,1933,1932,1931,1930,1929,1928,1925,1926,1927,1923,1924,1922,1921,1918,1919,1920,1914,1915,1916,1917,1913,1912): 52 QueuedPackages, 0 AsyncPackages
+[2025.02.19-06.36.56:320][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.imagePlane1' which is static to it. Aborting.
+[2025.02.19-06.36.56:320][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.materialXStack1' which is static to it. Aborting.
+[2025.02.19-06.36.56:320][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group' which is static to it. Aborting.
+[2025.02.19-06.36.56:320][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group1' which is static to it. Aborting.
+[2025.02.19-06.36.56:320][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group2' which is static to it. Aborting.
+[2025.02.19-06.36.56:320][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group3' which is static to it. Aborting.
+[2025.02.19-06.36.56:320][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group4' which is static to it. Aborting.
+[2025.02.19-06.36.56:321][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group5' which is static to it. Aborting.
+[2025.02.19-06.36.56:321][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group6' which is static to it. Aborting.
+[2025.02.19-06.36.56:321][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube1' which is static to it. Aborting.
+[2025.02.19-06.36.56:321][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group7' which is static to it. Aborting.
+[2025.02.19-06.36.56:321][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pSphere1' which is static to it. Aborting.
+[2025.02.19-06.36.56:321][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.pCube5' which is static to it. Aborting.
+[2025.02.19-06.36.56:321][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group8' which is static to it. Aborting.
+[2025.02.19-06.36.56:322][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group9' which is static to it. Aborting.
+[2025.02.19-06.36.56:322][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group10' which is static to it. Aborting.
+[2025.02.19-06.36.56:322][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group11' which is static to it. Aborting.
+[2025.02.19-06.36.56:322][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group12' which is static to it. Aborting.
+[2025.02.19-06.36.56:322][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group13' which is static to it. Aborting.
+[2025.02.19-06.36.56:322][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group14' which is static to it. Aborting.
+[2025.02.19-06.36.56:322][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group15' which is static to it. Aborting.
+[2025.02.19-06.36.56:323][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group16' which is static to it. Aborting.
+[2025.02.19-06.36.56:323][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group17' which is static to it. Aborting.
+[2025.02.19-06.36.56:323][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group18' which is static to it. Aborting.
+[2025.02.19-06.36.56:323][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group19' which is static to it. Aborting.
+[2025.02.19-06.36.56:323][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group20' which is static to it. Aborting.
+[2025.02.19-06.36.56:324][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group21' which is static to it. Aborting.
+[2025.02.19-06.36.56:324][472]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Race_Track_1"), cannot attach '/Memory/UEDPIE_0_7RXXGKA5Q8AJRUWMD99DP4UQ6.Test:PersistentLevel.FbxScene_Race_Track_1_C_UAID_F85EA00C6B644A4602_1199340447.group22' which is static to it. Aborting.
+[2025.02.19-06.36.56:472][472]LogScript: Warning: Script Msg: The widget 'WB_LapCounter_C_0' was already added to the screen.
+[2025.02.19-06.36.56:472][472]LogScript: Warning: Script Msg called by: Char_C /Game/UEDPIE_0_Test.Test:PersistentLevel.Char_C_0
+[2025.02.19-06.36.56:473][472]PIE: Server logged in
+[2025.02.19-06.36.56:474][472]PIE: Play in editor total start time 0.574 seconds.
+[2025.02.19-06.37.06:614][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.37.06:615][209]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2025.02.19-06.37.06:623][209]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-06.37.06:623][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.37.06:623][209]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Test.Test
+[2025.02.19-06.37.06:628][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-06.37.06:634][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-06.37.06:661][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-06.37.06:661][209]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.02.19-06.37.06:661][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.02.19-06.37.06:663][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.02.19-06.37.06:675][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.02.19-06.37.06:815][210]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.02.19-06.37.09:416][375]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.37.09:456][375]LogSlate: Window 'Message Log' being destroyed
+[2025.02.19-06.39.21:145][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15604.415039
+[2025.02.19-06.39.22:145][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.39.22:145][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15605.081055, Update Interval: 358.117615
+[2025.02.19-06.45.52:220][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15995.394531
+[2025.02.19-06.45.53:219][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.45.53:219][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15996.060547, Update Interval: 318.016296
+[2025.02.19-06.51.48:333][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16351.422852
+[2025.02.19-06.51.49:332][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.51.49:332][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16352.088867, Update Interval: 327.624146
+[2025.02.19-06.58.04:791][473]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16728.121094
+[2025.02.19-06.58.05:791][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.19-06.58.05:791][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16728.789062, Update Interval: 311.111176
