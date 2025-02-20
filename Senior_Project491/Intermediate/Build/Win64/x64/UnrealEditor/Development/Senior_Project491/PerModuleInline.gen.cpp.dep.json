@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\kkiely\\desktop\\unreal projects\\senior_project491\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\senior_project491\\permoduleinline.gen.cpp",
+        "Source": "d:\\documents\\github\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\senior_project491\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\kkiely\\desktop\\unreal projects\\senior_project491\\intermediate\\build\\win64\\x64\\senior_project491editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\documents\\github\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\senior_project491editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\kkiely\\desktop\\unreal projects\\senior_project491\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\senior_project491\\definitions.senior_project491.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+            "d:\\documents\\github\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\senior_project491\\definitions.senior_project491.h",
+            "d:\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
