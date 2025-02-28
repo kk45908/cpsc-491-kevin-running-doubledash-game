@@ -11,6 +11,25 @@
     <None Include="..\..\Source\Senior_Project491Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\2024-12-11 12-40.jpeg" />
+    <None Include="..\..\2024-12-11-12-40.png" />
+    <None Include="..\..\2025-01-17 23-55.jpeg" />
+    <None Include="..\..\2025-01-18-00-32.png" />
+    <None Include="..\..\2025-01-18-00-39.png" />
+    <None Include="..\..\2025-01-18-00-57.png" />
+    <None Include="..\..\CPSC-490-Track-Clubhouse-Door.png" />
+    <None Include="..\..\CPSC-490-Track.png" />
+    <None Include="..\..\CPSC-Senior-Capstone-Project-Cover-Page.png" />
+    <None Include="..\..\Grass-For-Race-Track-Image-Plane.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-1.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-2.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-3.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-4.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-5.png" />
+    <None Include="..\..\Race Track 1.fbx" />
+    <None Include="..\..\Race-Track-Non-Transparent.png" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +48,12 @@
     <Filter Include="Source\Senior_Project491">
       <UniqueIdentifier>{CE45ABB0-F9ED-38FA-A9CC-32EA8C8B01F2}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Senior_Project491\CamaraPathMover.cpp">
+      <Filter>Source\Senior_Project491</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Senior_Project491\CamaraPathMover.h">
+      <Filter>Source\Senior_Project491</Filter>
+    </ClCompile>
     <None Include="..\..\Source\Senior_Project491\Senior_Project491.Build.cs">
       <Filter>Source\Senior_Project491</Filter>
     </None>
