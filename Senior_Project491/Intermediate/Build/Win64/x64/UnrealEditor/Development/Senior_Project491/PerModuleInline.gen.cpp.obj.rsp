@@ -1,12 +1,12 @@
-"D:\Documents\GitHub\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp"
-/FI"D:\Documents\GitHub\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"D:\Documents\GitHub\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Definitions.Senior_Project491.h"
-/Yu"D:\Documents\GitHub\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"D:\Documents\GitHub\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"D:\Documents\GitHub\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp.obj"
-/experimental:log "D:\Documents\GitHub\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp.sarif"
-/sourceDependencies "D:\Documents\GitHub\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp.dep.json"
-@"D:\Documents\GitHub\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Senior_Project491.Shared.rsp"
+"C:\Users\apere\UnrealProjects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp"
+/FI"C:\Users\apere\UnrealProjects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\apere\UnrealProjects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Definitions.Senior_Project491.h"
+/Yu"C:\Users\apere\UnrealProjects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\apere\UnrealProjects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\apere\UnrealProjects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp.obj"
+/experimental:log "C:\Users\apere\UnrealProjects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp.sarif"
+/sourceDependencies "C:\Users\apere\UnrealProjects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp.dep.json"
+@"C:\Users\apere\UnrealProjects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Senior_Project491.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
