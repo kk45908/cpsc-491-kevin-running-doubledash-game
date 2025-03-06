@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\apere\\UnrealProjects\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Source\\Senior_Project491\\Senior_Project491.Build.cs",
-		"C:\\Users\\apere\\UnrealProjects\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Source\\Senior_Project491.Target.cs",
-		"C:\\Users\\apere\\UnrealProjects\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Source\\Senior_Project491Editor.Target.cs"
+		"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Source/Senior_Project491/Senior_Project491.Build.cs",
+		"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Source/Senior_Project491.Target.cs",
+		"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Source/Senior_Project491Editor.Target.cs"
 	],
 	"EngineVersion": "5.5.3"
 }
