@@ -5,6 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+=======
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/__ExternalActors__/Level1/E/P5/N80N9QV1UGP1H3LNG4WPC7.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/BP_ThirdPersonCharacter.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/__ExternalActors__/Level1/8/ON/HSG9NFSKP32NLSJOGYX0BU.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/BP_TrackSpline.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/BP_FinishLine.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/UI/W_lapCount.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/UI/W_HUD.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/__ExternalActors__/Level1/9/1X/ZHZL44XCGPF522Q9GA66F9.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/inputs/IA_AAcclerate.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/inputs/IMC_Character.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/BP_AI_Racer.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/__ExternalActors__/Level1/4/YZ/WL3NJVC6VU4FRYSQSGUI8Y.uasset",
+				"/Users/marinawild/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/kkiely/Desktop/Unreal Projects/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Selection1.uasset",
 				"C:/Users/kkiely/Desktop/Unreal Projects/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Level1_HLOD0_Instancing.uasset",
 				"C:/Users/kkiely/Desktop/Unreal Projects/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/__ExternalActors__/Level1/E/1C/1JOXLI3QZ0KUDVPKL4B6BG.uasset",
