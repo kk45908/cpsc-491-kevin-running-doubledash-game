@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\unrealeditor\\inc\\senior_project491\\uht\\camarapathmover.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\senior_project491editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\senior_project491\\definitions.senior_project491.h",
+            "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\source\\senior_project491\\camarapathmover.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\splinecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\unrealeditor\\inc\\senior_project491\\uht\\camarapathmover.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

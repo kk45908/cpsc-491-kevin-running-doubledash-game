@@ -18,17 +18,55 @@
     <None Include="..\..\2025-01-18-00-32.png" />
     <None Include="..\..\2025-01-18-00-39.png" />
     <None Include="..\..\2025-01-18-00-57.png" />
+    <None Include="..\..\Banana-Cup-Menu-Icon.png" />
+    <None Include="..\..\Banana.mb" />
+    <None Include="..\..\Barrel-Cup-Menu-Icon.png" />
+    <None Include="..\..\Barrel.fbx" />
+    <None Include="..\..\Barrel.mb" />
+    <None Include="..\..\Bomb.fbx" />
+    <None Include="..\..\Bomb.mb" />
+    <None Include="..\..\Bowling Ball.fbx" />
+    <None Include="..\..\Bowling Ball.mb" />
     <None Include="..\..\CPSC-490-Track-Clubhouse-Door.png" />
     <None Include="..\..\CPSC-490-Track.png" />
+    <None Include="..\..\CPSC-491-Pause-Button-Options.png" />
+    <None Include="..\..\CPSC-491-Pause-Button-Quit.png" />
+    <None Include="..\..\CPSC-491-Pause-Button-Resume.png" />
     <None Include="..\..\CPSC-Senior-Capstone-Project-Cover-Page.png" />
+    <None Include="..\..\Fake Item Box.fbx" />
+    <None Include="..\..\Fake Item Box.mb" />
     <None Include="..\..\Grass-For-Race-Track-Image-Plane.png" />
+    <None Include="..\..\Kevin Face.fbx" />
+    <None Include="..\..\Kevin Hair.fbx" />
+    <None Include="..\..\Kevin Left Arm.fbx" />
+    <None Include="..\..\Kevin Left Foot.fbx" />
+    <None Include="..\..\Kevin Left Hand.fbx" />
+    <None Include="..\..\Kevin Left Leg Part 1.fbx" />
+    <None Include="..\..\Kevin Left Leg Part 2.fbx" />
+    <None Include="..\..\Kevin Right Arm.fbx" />
+    <None Include="..\..\Kevin Right Foot.fbx" />
+    <None Include="..\..\Kevin Right Hand.fbx" />
+    <None Include="..\..\Kevin Right Leg Part 1.fbx" />
+    <None Include="..\..\Kevin Right Leg Part 2.fbx" />
+    <None Include="..\..\Kevin Torso.fbx" />
+    <None Include="..\..\Kevin-3D-Model-Image-Face.png" />
+    <None Include="..\..\Kevin-Character-Sheet.png" />
+    <None Include="..\..\Kevin-Menu-Icon.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Final-CourseMenu-Icon1-Hover.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Final-CourseMenu-Icon1.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Final-CourseMenu-Icon2-Hover.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Final-CourseMenu-Icon2.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Final-CourseMenu-Icon3-Hover.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Final-CourseMenu-Icon3.png" />
     <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-1.png" />
     <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-2.png" />
     <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-3.png" />
     <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-4.png" />
     <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-5.png" />
+    <None Include="..\..\Kevin-Running-Double-Dash-Menu-Button-6.png" />
     <None Include="..\..\Race Track 1.fbx" />
     <None Include="..\..\Race-Track-Non-Transparent.png" />
+    <None Include="..\..\Starting-Block-Cup-Menu-Icon.png" />
     <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -62,6 +100,18 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\Senior_Project491\Senior_Project491.h">
       <Filter>Source\Senior_Project491</Filter>
+    </ClCompile>
+    <Filter Include="Source\Senior_Project491\Private">
+      <UniqueIdentifier>{766C2784-0841-3D8B-A6C3-D948C0ADD74C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Senior_Project491\Private\InvisibleWall.cpp">
+      <Filter>Source\Senior_Project491\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Senior_Project491\Public">
+      <UniqueIdentifier>{BA3B7056-E1C4-3DC4-B3FD-385F28961ED6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Senior_Project491\Public\InvisibleWall.h">
+      <Filter>Source\Senior_Project491\Public</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -6,8 +6,11 @@
 /NAME:"UnrealEditor-Senior_Project491.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\kkiely\Desktop\Unreal Projects\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\kkiely\Desktop\Unreal Projects\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Senior_Project491.cpp.obj"
-"C:\Users\kkiely\Desktop\Unreal Projects\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp.obj"
-"C:\Users\kkiely\Desktop\Unreal Projects\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Default.rc2.res"
-/OUT:"C:\Users\kkiely\Desktop\Unreal Projects\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\UnrealEditor-Senior_Project491.lib"
+"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\CamaraPathMover.gen.cpp.obj"
+"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Senior_Project491.init.gen.cpp.obj"
+"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\CamaraPathMover.cpp.obj"
+"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Senior_Project491.cpp.obj"
+"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\PerModuleInline.gen.cpp.obj"
+"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Default.rc2.res"
+/OUT:"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\UnrealEditor-Senior_Project491.lib"
