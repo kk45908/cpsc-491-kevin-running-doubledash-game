@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/UI/CountdownWidget.uasset",
+				"D:/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/UI/BP_CountdownManager.uasset",
+				"D:/Documents/GitHub/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/__ExternalActors__/Level1/4/1V/BS5SHN8EWLXPGZ2JUAHYC1.uasset",
 				"C:/Users/kk459/Desktop/Unreal Projects/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Maya_Lambert1.uasset",
 				"C:/Users/kk459/Desktop/Unreal Projects/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Maya_Lambert4.uasset",
 				"C:/Users/kk459/Desktop/Unreal Projects/cpsc-491-kevin-running-doubledash-game/Senior_Project491/Content/Maya_Lambert5.uasset",

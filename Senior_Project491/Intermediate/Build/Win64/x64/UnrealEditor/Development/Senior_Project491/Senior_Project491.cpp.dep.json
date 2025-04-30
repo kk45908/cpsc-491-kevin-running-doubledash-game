@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\source\\senior_project491\\senior_project491.cpp",
+        "Source": "d:\\documents\\github\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\source\\senior_project491\\senior_project491.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\senior_project491editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\documents\\github\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\senior_project491editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\senior_project491\\definitions.senior_project491.h",
-            "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\source\\senior_project491\\senior_project491.h"
+            "d:\\documents\\github\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\senior_project491\\definitions.senior_project491.h",
+            "d:\\documents\\github\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\source\\senior_project491\\senior_project491.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

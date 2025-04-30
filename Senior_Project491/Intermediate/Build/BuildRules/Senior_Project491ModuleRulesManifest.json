@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\kk459\\Desktop\\Unreal Projects\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Source\\Senior_Project491\\Senior_Project491.Build.cs",
-		"C:\\Users\\kk459\\Desktop\\Unreal Projects\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
-		"C:\\Users\\kk459\\Desktop\\Unreal Projects\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Source\\Senior_Project491.Target.cs",
-		"C:\\Users\\kk459\\Desktop\\Unreal Projects\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Source\\Senior_Project491Editor.Target.cs"
+		"D:\\Documents\\GitHub\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Source\\Senior_Project491\\Senior_Project491.Build.cs",
+		"D:\\Documents\\GitHub\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"D:\\Documents\\GitHub\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Source\\Senior_Project491.Target.cs",
+		"D:\\Documents\\GitHub\\cpsc-491-kevin-running-doubledash-game\\Senior_Project491\\Source\\Senior_Project491Editor.Target.cs"
 	],
-	"EngineVersion": "5.5.4"
+	"EngineVersion": "5.5.3"
 }
