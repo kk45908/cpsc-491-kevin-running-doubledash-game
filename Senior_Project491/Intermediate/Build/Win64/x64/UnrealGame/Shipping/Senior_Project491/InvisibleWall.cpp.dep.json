@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\source\\senior_project491\\private\\invisiblewall.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\senior_project491\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\senior_project491\\definitions.senior_project491.h",
+            "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\source\\senior_project491\\public\\invisiblewall.h",
+            "c:\\users\\kk459\\desktop\\unreal projects\\cpsc-491-kevin-running-doubledash-game\\senior_project491\\intermediate\\build\\win64\\unrealgame\\inc\\senior_project491\\uht\\invisiblewall.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

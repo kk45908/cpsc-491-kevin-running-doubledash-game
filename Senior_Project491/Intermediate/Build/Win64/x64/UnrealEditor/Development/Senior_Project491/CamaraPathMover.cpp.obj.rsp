@@ -1,12 +1,12 @@
-"D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Source\Senior_Project491\CamaraPathMover.cpp"
-/FI"D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Definitions.Senior_Project491.h"
-/Yu"D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\CamaraPathMover.cpp.obj"
-/experimental:log "D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\CamaraPathMover.cpp.sarif"
-/sourceDependencies "D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\CamaraPathMover.cpp.dep.json"
-@"D:\Unity Github\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Senior_Project491.Shared.rsp"
+"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Source\Senior_Project491\CamaraPathMover.cpp"
+/FI"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Definitions.Senior_Project491.h"
+/Yu"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\Senior_Project491Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\CamaraPathMover.cpp.obj"
+/experimental:log "C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\CamaraPathMover.cpp.sarif"
+/sourceDependencies "C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\CamaraPathMover.cpp.dep.json"
+@"C:\Users\kk459\Desktop\Unreal Projects\cpsc-491-kevin-running-doubledash-game\Senior_Project491\Intermediate\Build\Win64\x64\UnrealEditor\Development\Senior_Project491\Senior_Project491.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

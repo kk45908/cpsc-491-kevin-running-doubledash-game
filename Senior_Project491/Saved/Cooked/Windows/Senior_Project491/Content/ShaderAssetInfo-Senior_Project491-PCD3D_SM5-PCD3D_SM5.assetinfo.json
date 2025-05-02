@@ -14,6 +14,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E401A307307AB37603D9EE59C046F07A82F96ADC",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
 			"ShaderMapHash": "9BE1D709D26204CC76E0A819FEF68326CE7A038B",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
@@ -62,6 +68,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D0C5091A925F193D8E5DCFB16B2B34690D680F68",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
 			"ShaderMapHash": "3878161EA4485439A1ACC2C6E1C9B338AB53D7F7",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
@@ -86,15 +98,44 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1738262205FF5EEAAFEE27541A43D54C5D96AE89",
+			"Assets": [
+				"/Game/RedColor"
+			]
+		},
+		{
 			"ShaderMapHash": "646D7C24A04CED1EDFE90950A2F6607E8984052D",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR"
 			]
 		},
 		{
+			"ShaderMapHash": "55F23F27CD36B82D55F3DF871E3CF2D3DAD65600",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
 			"ShaderMapHash": "7E689527BB5694AF35E8F4FAB32FA8C4A0C7F004",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B5A4F62ACA5730183109070A5FC46FC896493C56",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "969B422CE8DC12FB927726B17B28C6F90E50913C",
+			"Assets": [
+				"/Game/Maya_Lambert1",
+				"/Game/Maya_Lambert4",
+				"/Game/Maya_Lambert5",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__Maya_Lambert11",
+				"/Game/RaceTrack3Elements/Maya_Lambert17",
+				"/Game/RaceTrack3Elements/Maya_Lambert5"
 			]
 		},
 		{
@@ -154,7 +195,9 @@
 		{
 			"ShaderMapHash": "3AF55F46EF549D15EE810F4A5BE99F21CD6B33B9",
 			"Assets": [
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/6STUIE5HIVZGCEZANDWW93U27"
+				"/Game/Level1",
+				"/Game/Level2",
+				"/Game/Level3"
 			]
 		},
 		{
@@ -179,6 +222,12 @@
 			"ShaderMapHash": "DEBB31517A42A33ED638A0A889CDCA06D1A6AFB0",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "11754A5426ADF795B92AF6A4E7376F71D9F6BDA2",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
 			]
 		},
 		{
@@ -224,6 +273,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9E333762F3AC1F3998FE17D89D41A4198105FBC0",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
 			"ShaderMapHash": "214717663469B09E63C5362A7209F0E2DD42F33B",
 			"Assets": [
 				"/Engine/EngineSky/M_SimpleSkyDome"
@@ -248,6 +303,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4E9A666C040B4D7BD927E04FCBE8FBBFB1127AF5",
+			"Assets": [
+				"/Game/GreenColor1"
+			]
+		},
+		{
 			"ShaderMapHash": "15174D74B798DA02B7157BE4D7589277D3185C39",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
@@ -257,6 +318,12 @@
 			"ShaderMapHash": "6F9E84776335304865C6C71E576BAB828C93D32A",
 			"Assets": [
 				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EAAC3D7A1A555FC61CD8F38D25604ABC96CF8EB5",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
 			]
 		},
 		{
@@ -272,6 +339,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "118A367E70779D5AD6F1551A99D46117D49F308E",
+			"Assets": [
+				"/Game/RaceTrack2Elements/pasted__lambert6",
+				"/Game/RaceTrack2Elements/pasted__pasted__lambert10",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__pasted__lambert10",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__pasted__lambert6",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__pasted__lambert7",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__pasted__lambert9",
+				"/Game/RaceTrack3Elements/pasted__lambert7"
+			]
+		},
+		{
+			"ShaderMapHash": "2222277F271CDDF06FAD01D2AB3E772458DA75CF",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
 			"ShaderMapHash": "3AF4947FFC83CC99827C7F67E7D8A0FE4683AE08",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
@@ -281,6 +366,18 @@
 			"ShaderMapHash": "B13B068039EF4938F35E551E9025BCB3A1D9CE66",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "69EBA981DA0D9682CE18842B2A79B93135F67E83",
+			"Assets": [
+				"/Game/Boost",
+				"/Game/Flag",
+				"/Game/Grass",
+				"/Game/Kevin",
+				"/Game/Tim",
+				"/Game/Track",
+				"/Game/Track_ClubhouseDoor"
 			]
 		},
 		{
@@ -298,13 +395,35 @@
 		{
 			"ShaderMapHash": "9D41AB82C05735C9E56E3F9BD934A21F2752EC9B",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/3D_Models/Maya_Lambert1",
+				"/Game/3D_Models/Maya_Lambert10",
+				"/Game/3D_Models/Maya_Lambert11",
+				"/Game/3D_Models/Maya_Lambert12",
+				"/Game/3D_Models/Maya_Lambert14",
+				"/Game/3D_Models/Maya_Lambert15",
+				"/Game/3D_Models/Maya_Lambert2",
+				"/Game/3D_Models/Maya_Lambert7",
+				"/Game/3D_Models/Maya_Lambert8",
+				"/Game/3D_Models/Maya_Lambert9",
+				"/Game/3D_Models/pasted__pasted__pasted__lambert3",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__lambert3",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__lambert4",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__pasted__Lambert1",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__pasted__pasted__Lambert1",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__pasted__pasted__pasted__Lambert1"
 			]
 		},
 		{
 			"ShaderMapHash": "27B32A86C56D9BC65A485A80B83B78843D26A5C9",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "2BADC186E5C3A35E6E14A713F5185E00FF75B18C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
 			]
 		},
 		{
@@ -316,7 +435,8 @@
 		{
 			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -350,6 +470,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C92E83A0AD355E64562D5B4751B6FAA02E186E97",
+			"Assets": [
+				"/Game/BlueColor"
+			]
+		},
+		{
 			"ShaderMapHash": "3C6447A69EFFA4AEC172B48B3B6994710D7F9A68",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
@@ -376,7 +502,8 @@
 		{
 			"ShaderMapHash": "9220ADAC5EBCC7452DB04881C15F4DF58A25927D",
 			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
 			]
 		},
 		{
@@ -413,6 +540,12 @@
 			"ShaderMapHash": "E4DFABB3AF9FCA2EBFF9AAD2388DC48B2ECA856E",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "72547CB4CC17811D1A221207CA75222677EC1EAF",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
 			]
 		},
 		{
@@ -489,6 +622,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "76599DCA5E85D8F9EDBC2BAFED72FACB3648C3E7",
+			"Assets": [
+				"/Game/SkinColor"
+			]
+		},
+		{
+			"ShaderMapHash": "895E1DCF8773091CA0A5B3E223AE2E99746D2DDC",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
 			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
@@ -537,6 +682,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DA8413F785D606E8039168A5E6373594B8EB7642",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
 			"ShaderMapHash": "05C1B8F998086E49835C179E927C767E8BF7D626",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
@@ -546,6 +697,12 @@
 			"ShaderMapHash": "FBF7ABFBBB39E89B2E9F6D07C4CC0C82842CC4E3",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "89E1B9FBFB389AE57A3A40E51F31B3718D8DDA93",
+			"Assets": [
+				"/Game/GreenColor"
 			]
 		},
 		{
