@@ -400,7 +400,6 @@
 /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N
 /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan
 /Game/Characters/Mannequins/Textures/Shared/T_UE_Logo_M
-/Game/Chosen_-_Anno_Domini_Beats
 /Game/CountdownWidget
 /Game/CPSC-491-Pause-Button-Quit
 /Game/CPSC-491-Pause-Button-Resume
@@ -447,6 +446,7 @@
 /Game/Menu2-1
 /Game/Menu2-2
 /Game/Menu3
+/Game/Menu_-_Mario_Kart__Double_Dash_Music_Extended
 /Game/MyFunctionLibrary
 /Game/PauseSelection
 /Game/RaceTrack2Elements/pasted__lambert6
@@ -464,7 +464,6 @@
 /Game/RaceTrack3Elements/pasted__pasted__pasted__pCube3
 /Game/RaceTrack3Elements/pasted__pasted__pasted__pCylinder1
 /Game/RaceTrack3Elements/pasted__pasted__pCube129
-/Game/Reasons_-_Anno_Domini_Beats
 /Game/RedColor
 /Game/SaveData
 /Game/Selection2
@@ -472,6 +471,8 @@
 /Game/Selection2-2
 /Game/Selection3
 /Game/SkinColor
+/Game/Sky_Station_Galaxy___Super_Mario_Galaxy_2_Music_Extended
+/Game/SNES_Battle_Course_4_-_Mario_Kart_Wii_Music_Extended__1_
 /Game/Speed-Boost-Logo
 /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI
 /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master
