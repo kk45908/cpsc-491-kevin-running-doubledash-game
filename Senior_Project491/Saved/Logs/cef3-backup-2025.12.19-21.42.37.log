@@ -1,0 +1,9 @@
+[16000:20044:1219/133514.647:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16000:2488:1219/133514.680:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16000:20044:1219/133514.690:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16000:20044:1219/133536.204:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[16000:20044:1219/133536.545:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[16000:20084:1219/133539.773:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16000:20044:1219/133859.346:ERROR:device_event_log_impl.cc(196)] [13:38:29.340] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[16000:20044:1219/133859.415:ERROR:device_event_log_impl.cc(196)] [13:38:29.404] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[16000:20044:1219/134237.701:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
