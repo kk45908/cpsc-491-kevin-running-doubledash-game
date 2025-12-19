@@ -14,6 +14,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F281DC03A5EF483995E26182F055F604A8F5FB47",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
 			"ShaderMapHash": "38FA2904342B28DCC541AF5DAAB7DADFDD0E66AE",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
@@ -53,6 +59,12 @@
 			"ShaderMapHash": "BB4001243AEC2B89AC0FABD40E635DB811D24865",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0A0E9D2520C3567D6F10E16325EDD73C01243EBA",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
 			]
 		},
 		{
@@ -104,6 +116,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D510A63D1CFB3D1A11442EC069D1F5428F21A6FA",
+			"Assets": [
+				"/Game/RaceTrack2Elements/pasted__lambert6",
+				"/Game/RaceTrack2Elements/pasted__pasted__lambert10",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__pasted__lambert10",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__pasted__lambert6",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__pasted__lambert7",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__pasted__lambert9",
+				"/Game/RaceTrack3Elements/pasted__lambert7"
+			]
+		},
+		{
 			"ShaderMapHash": "F68BDB43EB18AE588F4E6C60EF0D1F178A62884E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
@@ -130,7 +154,21 @@
 		{
 			"ShaderMapHash": "B3E59E4A29DB360E608E299C198FAD7C16B03EE9",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/3D_Models/Maya_Lambert1",
+				"/Game/3D_Models/Maya_Lambert10",
+				"/Game/3D_Models/Maya_Lambert11",
+				"/Game/3D_Models/Maya_Lambert12",
+				"/Game/3D_Models/Maya_Lambert14",
+				"/Game/3D_Models/Maya_Lambert15",
+				"/Game/3D_Models/Maya_Lambert2",
+				"/Game/3D_Models/Maya_Lambert7",
+				"/Game/3D_Models/Maya_Lambert8",
+				"/Game/3D_Models/Maya_Lambert9",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__lambert3",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__lambert4",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__pasted__pasted__Lambert1",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__pasted__pasted__pasted__Lambert1"
 			]
 		},
 		{
@@ -182,6 +220,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5195885590ADC60EEE324E5398E4DCF66B60FEDB",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
 			"ShaderMapHash": "41DDFC5AD4E20D99E468C74E1341021B9A13A6ED",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
@@ -212,6 +256,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A71265703F0B34F16A10DA758AECFD9F1D6FBF39",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
 			"ShaderMapHash": "438EC7702432B7C65389A674FAA4D54526331B3A",
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
@@ -221,7 +271,8 @@
 		{
 			"ShaderMapHash": "89BAEA73DBFD4AF02B0BF3F61404D298A35B4B19",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -231,9 +282,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F13EFD7939B0650E9DA9DD6BE17238E9EBAC884D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
 			"ShaderMapHash": "A12D7080707FC6F58C3E642B7E77F396BE945B6E",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "6BDC80809BDB8A4EBBB4DFB02768F70DE97E026D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
 			]
 		},
 		{
@@ -249,15 +312,56 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E9B71487380A0152C636305E9C4C368BB101050B",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "55837C87B80887558D9733CC23C05CCFC695FF37",
+			"Assets": [
+				"/Game/BlueColor"
+			]
+		},
+		{
 			"ShaderMapHash": "60FAA787B149DBAF3B42FFE5BF55CF63912D6B92",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
 			]
 		},
 		{
+			"ShaderMapHash": "06FC098AF6CD4DBDC49E5301B83F1CB211E95DA0",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
 			"ShaderMapHash": "7ECA128A44CA1CE9EDB0F038C44133989000D8E8",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "DAB87A8C585A774C2883FFAE0DDCD4DA565109FD",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "B55E988EC80D96B95216DC53A494FAA4BF711B45",
+			"Assets": [
+				"/Game/Maya_Lambert1",
+				"/Game/Maya_Lambert4",
+				"/Game/Maya_Lambert5",
+				"/Game/RaceTrack2Elements/pasted__pasted__pasted__pasted__Maya_Lambert11",
+				"/Game/RaceTrack3Elements/Maya_Lambert17",
+				"/Game/RaceTrack3Elements/Maya_Lambert5"
+			]
+		},
+		{
+			"ShaderMapHash": "31EC4593E5F5F93257E4C469F2E353F6F3AEBC70",
+			"Assets": [
+				"/Game/RedColor"
 			]
 		},
 		{
@@ -311,42 +415,9 @@
 		{
 			"ShaderMapHash": "C81E4B9BD00306735B372564E4A57650116E184D",
 			"Assets": [
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/062VPHY2A664O1BFN6K10ZTFC",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/0DKNXQ64G0741WMB1HG25AYNU",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/0FBSY5KVOXKO2F95PG60Y9LQ1",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/0ULS9JG1EER47G9XYQAP7GS53",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/1KA8PENA07S1TLPYUQT1ADWJW",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/1XRO772MR72DR4NTZXXPNQLCL",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/264SVRNDEWW4MGWUIDC4BTIXK",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/2EXPORCQWFXA0VGPUZFFEH42V",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/2KZONTR6XMIOC1XIKLEAIDFGK",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/3VF47RGRS9W4BJX2S86EFTVJD",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/47IZ3J3V5ZG6TMR3GM3VMJ2Y2",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/4VMFP9X0E1WZQ30W8JQB6M1YL",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/4ZN1OJP2B964Q0681LMOH9CAD",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/560Q2YQDUSHN6VRUZ0LHOWU97",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/5JAFRUW7M8C40BCVQK2GXFJNJ",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/5Y4REHE1GDAJJ90DPEI1VVKT8",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/5YLXSWDD6B74X559RZ9RN5K99",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/6U1Q6DZVXYENNRFSLB9Q4MBCV",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/7E8MPC3Z1ENYFQOFU0TO8H1O3",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/7IZRC9ECG7XKK61Q37LY67KCB",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/7QAN0CUPH7L6XIAXVC415BO3H",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/7W0EWM8OGZ345XSTZNS5AQMBI",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/8HTVHG4ZV10ESALAMDOXITR27",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/90YKWZXGBC5Q8M7RFK49P371F",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/91C65FSOVE5PX3RH3ZE5R7AWP",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/9DWYO4CR8ZRKRYVNPHDVJTYH4",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/A162FR22SPAI1JX798GP4T1ZY",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/A7UZ852D2ZZOKJMRIHDRWHDZ8",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/B11KFXDGHHWI998I49YF8OSCV",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/CGX8O6ITCT8PB63Y6Q4CTFLKF",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/CMII0KWF4DK79CQ7FNE3VYZ0Y",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/D528WYH177JBF1MVERKEF59XI",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/DQ6VH2NBB7RXPEUMYIX9HP52D",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/EJQVVAI5ME30NB6FGJ49AXY9F",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/EUV70YALLEKX8DTKFHA9JZCNR",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/EYFK9JZPSX06MOH3LNAI7SW92"
+				"/Game/Level1",
+				"/Game/Level2",
+				"/Game/Level3"
 			]
 		},
 		{
@@ -398,9 +469,25 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4CE025A73B6C35C37359FDF9C4B477076F819EA2",
+			"Assets": [
+				"/Game/SkinColor"
+			]
+		},
+		{
 			"ShaderMapHash": "CBC022A8ABA7B0144A973DEE3EEF21A0F81E82C0",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B2E892A8C006BE7AA5C13FCA2A59D2D7C7F3FF7C",
+			"Assets": [
+				"/Game/Boost",
+				"/Game/Flag",
+				"/Game/Grass",
+				"/Game/Track",
+				"/Game/Track_ClubhouseDoor"
 			]
 		},
 		{
@@ -458,6 +545,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E87145BFDE4AB5FCD9B06DB5EB6AA84C53B60106",
+			"Assets": [
+				"/Game/3D_Models/pasted__pasted__pasted__lambert3",
+				"/Game/3D_Models/pasted__pasted__pasted__pasted__pasted__Lambert1"
+			]
+		},
+		{
 			"ShaderMapHash": "23DE3EC34369513CEC99DB6EFFB462B80C2E6B91",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
@@ -476,9 +570,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1FD527D02E54848687EC240031F790CC4EDEA7F4",
+			"Assets": [
+				"/Game/GreenColor1"
+			]
+		},
+		{
 			"ShaderMapHash": "F1B202D393A5C72587D0C5E3AE0CCD173ED454A9",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B18F77D3B1DA442E7AB1225741D15FA8D70B98D7",
+			"Assets": [
+				"/Game/Kevin",
+				"/Game/Tim"
 			]
 		},
 		{
@@ -497,6 +604,12 @@
 			"ShaderMapHash": "F6DB64D84DB2C5C862490BC3682AA6ED00D0109F",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E90987DB3EEECB844AE5A78C626B8EFE14B09AC9",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
 			]
 		},
 		{
@@ -560,6 +673,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CEA09CE732C738D8A3A38390E8A489A392494154",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "995BD6E8DE1BD5F154C0E8F48A5849ED1A93C9A6",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
 			"ShaderMapHash": "8A9043EBE2A8C89D45D25A84812226A5E7AE32A7",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
@@ -569,6 +694,12 @@
 			"ShaderMapHash": "326AFFF1B14AF96A614C4C9FE33170408F7F2BD4",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "683367F5C5C30F914FE999535EC8BA5120C577FB",
+			"Assets": [
+				"/Game/GreenColor"
 			]
 		},
 		{
@@ -587,6 +718,12 @@
 			"ShaderMapHash": "C9EC23F80E8133EC2376A04489462C7F2F7CF2E2",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "95DD08F97BE7D3F15B20FE70AF79C19A27AE9C44",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
 			]
 		},
 		{
